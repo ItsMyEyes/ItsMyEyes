@@ -1,6 +1,6 @@
 # Hello, I'm Andi / Kiyora / IME 👋
 
-![PHP](https://img.shields.io/badge/Php-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/Php-Expert-yellow)
 ![LUA](https://img.shields.io/badge/Lua-Intermediate-white)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
