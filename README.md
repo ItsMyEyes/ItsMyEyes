@@ -9,8 +9,7 @@
 
 I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. 🇮🇹
 
-- 🌱 I’m currently learning **Cyber Security** at UniMore
-- 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
+- 👾 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
 - ⚙️ Mastering: `.php`, `.html`,`.css`,`.js`, `.lua`, `.vue`
 - 🌱 Learning all about Open Source
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
