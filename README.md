@@ -20,7 +20,7 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusi
 
 - GitHub: [github.com/ItsMyEyes][github]
 - LinkedIn: coming soon
-- Site: [sipaling.top][site]
+- Site: [kiyora-dev.xyz][site]
 - E-mail: dev@sipaling.top
 
 ### 📚 Looking for my Resume? E-Mail me!
@@ -28,4 +28,4 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusi
 ![ItsMyEyes](https://github-readme-stats.vercel.app/api?username=ItsMyEyes&theme=radical&show_icons=true&hide_border=true)
 
 [github]: https://github.com/ItsMyEyes
-[site]: https://sipaling.top
+[site]: https://kiyora-dev.xyz
