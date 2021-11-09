@@ -1,11 +1,11 @@
 # Hello, I'm Andi / Kiyora / IME 👋
 
 ![PHP](https://img.shields.io/badge/Php-Intermediate-yellow)
-![Lua](https://img.shields.io/badge/Lua-Intermediate-white)
+![LUA](https://img.shields.io/badge/Lua-Intermediate-white)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Vue](https://img.shields.io/badge/Vue-Intermediate-lightgrey)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![VUE](https://img.shields.io/badge/Vue-Intermediate-lightgrey)
 
 I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. 🇮🇹
 
