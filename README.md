@@ -13,7 +13,7 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusi
 - ⚙️ Mastering: `.php`, `.html`,`.css`,`.js`, `.lua`, `.vue`, `.go`, `.jsx`
 - 🌱 Learning all about Open Source
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm active sometimes within the **Cyber Security**, **Vue.JS**, **React.js**, **Expressjs**, **GRPC** **Node.JS** and **Devops** communities
+- 💬 I'm active sometimes within the **Cyber Security**, **Vue.JS**, **React.js**, **Expressjs**, **GRPC**, **Node.JS** and **Devops** communities
 - ⚡️ Fun fact: I'm a huge fan of Avengers
 
 ### 📬 Get in Touch
