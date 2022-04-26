@@ -2,7 +2,7 @@
 
 ![PHP](https://img.shields.io/badge/Php-Expert-yellow)
 ![LUA](https://img.shields.io/badge/Lua-Intermediate-white)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![HTML](https://img.shields.io/badge/HTML-Medium-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![VUE](https://img.shields.io/badge/Vue-Intermediate-lightgrey)
