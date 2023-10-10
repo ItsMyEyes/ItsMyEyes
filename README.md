@@ -22,8 +22,8 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusi
 
 - GitHub: [github.com/ItsMyEyes][github]
 - LinkedIn: coming soon
-- Site: [sipaling.top][site]
-- E-mail: dev@sipaling.top
+- Site: [iam.kiyora.dev][site]
+- E-mail: iam@kiyora.dev
 
 ### 📚 Looking for my Resume? E-Mail me!
 
