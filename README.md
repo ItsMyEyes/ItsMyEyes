@@ -20,6 +20,6 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia. Cyber Security enthusi
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/ItsMyEyes][github]
-- LinkedIn: [https://linkedin.com/myname-andi](Andi Syahruddin)
-- Site: [iam.kiyora.dev][site]
+- GitHub: [github](github.com/ItsMyEyes)
+- LinkedIn: [Andi]([Andi Syahruddin](https://linkedin.com/myname-andi))
+- Site: [iam.kiyora.dev][iam.kiyora.dev]
